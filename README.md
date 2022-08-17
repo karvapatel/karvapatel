@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **Many other programmers**
 
-- 📝 I regularly write newsletter [www.getrevue.co/profile/karva21apr](www.getrevue.co/profile/karva21apr)
+- 📝 I regularly write newsletter [https://patelpurva.substack.com/embed](www.substack.co/profile/Purv_x_777)
 
 - 📫 How to reach me **karva21apr@gmail.com**
 
@@ -21,7 +21,7 @@
 <a href="https://fb.com/purv patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purv patel" height="30" width="40" /></a>
 <a href="https://instagram.com/purv_x_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purv_x_777" height="30" width="40" /></a>
 </p>
-<iframe src="https://patelpurva.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
